@@ -12,6 +12,14 @@ const nextConfig: NextConfig = {
   // module .../pdf.worker.mjs"). Excluding it from bundling makes Next.js
   // `require`/`import` it natively instead, so the worker path stays intact.
   serverExternalPackages: ["pdf-parse", "pdfjs-dist"],
+  // Prisma's client is generated to a custom path (src/generated/prisma,
+  // not node_modules), so Next.js's automatic file tracer doesn't reliably
+  // pick up its native query-engine binary for the serverless function
+  // bundle on Vercel — without this, every route touching the database
+  // fails at runtime with "could not locate the Query Engine".
+  outputFileTracingIncludes: {
+    "/*": ["./src/generated/prisma/**/*"],
+  },
 };
 
 export default nextConfig;

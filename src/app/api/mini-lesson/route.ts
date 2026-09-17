@@ -5,7 +5,7 @@ import { getCurrentUser } from "@/lib/auth";
 import { getAIProvider } from "@/lib/ai";
 import { AiRateLimitError, recordAiUsageOrThrow } from "@/lib/ai/rateLimit";
 import { CATEGORY_EXPLANATIONS } from "@/content/error-category-explanations";
-import type { ErrorCategory, Skill } from "@/generated/prisma/client";
+import type { ErrorCategory, Skill } from "@prisma/client";
 
 const bodySchema = z.object({
   category: z.enum(Object.keys(CATEGORY_EXPLANATIONS) as [ErrorCategory, ...ErrorCategory[]]),

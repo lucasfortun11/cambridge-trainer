@@ -4,7 +4,7 @@ import { prisma } from "@/lib/prisma";
 import { getCurrentUser } from "@/lib/auth";
 import { scorePlacementTest, formatLevel } from "@/lib/placement";
 import { getAIProvider } from "@/lib/ai";
-import type { ErrorCategory, ErrorSource, Skill } from "@/generated/prisma/client";
+import type { ErrorCategory, ErrorSource, Skill } from "@prisma/client";
 
 const bodySchema = z.object({
   answers: z.array(z.object({ questionId: z.string(), selected: z.string() })),

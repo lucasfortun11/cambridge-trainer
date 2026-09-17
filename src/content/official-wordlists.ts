@@ -10,7 +10,7 @@
 
 import a2Raw from "./official-wordlists/a2-words.json";
 import b1Raw from "./official-wordlists/b1-words.json";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 export type OfficialWordEntry = { word: string; pos: string; level: string };
 

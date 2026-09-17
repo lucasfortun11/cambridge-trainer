@@ -1,6 +1,6 @@
 import type { SpeakingFeedback } from "./types";
 import { estimateLevelFromScore } from "@/lib/cambridge-exams";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 const FILLER_WORDS = ["um", "uh", "like", "you know", "basically", "actually", "i mean"];
 

@@ -2,7 +2,7 @@
 // Keeping these independent from Prisma's generated types means the AI layer
 // can be swapped (mock -> real LLM) without the rest of the app changing.
 
-import type { CEFRLevel, ErrorCategory, Skill, Sublevel, WritingType, SpeakingPart } from "@/generated/prisma/client";
+import type { CEFRLevel, ErrorCategory, Skill, Sublevel, WritingType, SpeakingPart } from "@prisma/client";
 
 export type GenerateExerciseInput = {
   skill: Skill;

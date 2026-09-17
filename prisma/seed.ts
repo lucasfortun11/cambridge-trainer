@@ -1,4 +1,4 @@
-import { PrismaClient, type ErrorCategory, type Skill } from "../src/generated/prisma/client";
+import { PrismaClient, type ErrorCategory, type Skill } from "@prisma/client";
 import bcrypt from "bcryptjs";
 import { rueExercises } from "./content/reading-use-of-english";
 import { grammarExercises } from "./content/grammar";

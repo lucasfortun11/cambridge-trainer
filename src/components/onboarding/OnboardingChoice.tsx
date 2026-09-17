@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { ClipboardCheck, ListChecks, Loader2, ArrowRight, ArrowLeft } from "lucide-react";
 import { CEFR_LEVELS, CAMBRIDGE_EXAMS } from "@/lib/cambridge-exams";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 export function OnboardingChoice() {
   const router = useRouter();

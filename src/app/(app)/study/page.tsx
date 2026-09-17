@@ -5,7 +5,7 @@ import { getCurrentUser } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { SKILL_LABELS } from "@/lib/dashboard-labels";
 import { SKILL_ROUTES } from "@/lib/skill-routes";
-import type { Skill } from "@/generated/prisma/client";
+import type { Skill } from "@prisma/client";
 
 type Task = { skill: Skill; label: string; minutes: number };
 

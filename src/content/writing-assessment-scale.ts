@@ -10,7 +10,7 @@
 // CEFR level. A1 has no standalone Cambridge qualification, so it reuses
 // the A2 descriptor with a note to expect simpler language.
 
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 export const WRITING_CONTENT_SCALE = [
   { band: 5, descriptor: "All content is relevant to the task. The target reader is fully informed." },

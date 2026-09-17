@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getCurrentUser } from "@/lib/auth";
-import type { ExamPart, Skill } from "@/generated/prisma/client";
+import type { ExamPart, Skill } from "@prisma/client";
 
 export async function GET(req: NextRequest) {
   const user = await getCurrentUser();

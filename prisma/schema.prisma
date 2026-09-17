@@ -13,9 +13,17 @@
 // 5432, no pooler) is used only for `prisma migrate` / `db push`. Both point
 // at the same database — see README for where Supabase gives you each one.
 
+// Deliberately the classic "prisma-client-js" generator with its DEFAULT
+// output (node_modules/@prisma/client, imported as "@prisma/client")
+// instead of the newer "prisma-client" generator with a custom output path.
+// The newer generator's import.meta.url-based engine lookup doesn't survive
+// Next.js/Turbopack bundling the generated module into a server chunk on
+// Vercel ("could not locate the Query Engine" at runtime even though the
+// binary is physically present in the deployment) — the classic generator's
+// default node_modules location gets Next.js's built-in special-cased
+// external-package handling instead, which is what actually works.
 generator client {
-  provider      = "prisma-client"
-  output        = "../src/generated/prisma"
+  provider      = "prisma-client-js"
   // "native" covers local dev on whatever OS you're developing on (Windows
   // here); "rhel-openssl-3.0.x" is what Vercel's serverless functions
   // actually run on — without it explicitly listed, a client generated on

@@ -13,7 +13,7 @@ import {
 } from "recharts";
 import { CEFR_LEVELS, levelToNumeric, numericToLevel } from "@/lib/cambridge-exams";
 import type { RealLevelChartPoint } from "@/lib/level-history";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 type RealLevelChartProps = {
   data: RealLevelChartPoint[];

@@ -1,7 +1,7 @@
 import { TrendingUp, TrendingDown, CheckCircle2 } from "lucide-react";
 import { formatLevel } from "@/lib/placement";
 import { CEFR_LEVELS } from "@/lib/cambridge-exams";
-import type { CEFRLevel, Sublevel } from "@/generated/prisma/client";
+import type { CEFRLevel, Sublevel } from "@prisma/client";
 
 /**
  * Shows where THIS specific piece of work (independently of its score

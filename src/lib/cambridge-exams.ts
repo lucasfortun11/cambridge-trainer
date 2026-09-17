@@ -3,7 +3,7 @@
 // exam — used only for the app's internal "readiness" estimate, never
 // presented as an official score (see disclaimers throughout the UI).
 
-import type { CEFRLevel, Sublevel } from "@/generated/prisma/client";
+import type { CEFRLevel, Sublevel } from "@prisma/client";
 
 export type CambridgeExamInfo = {
   level: CEFRLevel;

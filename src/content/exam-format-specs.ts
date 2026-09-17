@@ -7,7 +7,7 @@
 // part and to show candidates an accurate picture of what they'll actually
 // face — none of it is a real exam question, passage or transcript.
 
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 export type ExamPartSpec = {
   part: number;

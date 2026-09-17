@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Mic, Square, Loader2, Play, RotateCcw } from "lucide-react";
 import type { SpeakingPrompt } from "@/content/speaking-prompts";
 import { EstimatedLevelBanner } from "@/components/shared/EstimatedLevelBanner";
-import type { CEFRLevel, Sublevel } from "@/generated/prisma/client";
+import type { CEFRLevel, Sublevel } from "@prisma/client";
 
 type SpeechRecognitionLike = {
   continuous: boolean;

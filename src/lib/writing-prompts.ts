@@ -9,7 +9,7 @@
 import { prisma } from "@/lib/prisma";
 import { getAIProvider } from "@/lib/ai";
 import { WRITING_PROMPTS, type WritingPrompt } from "@/content/writing-prompts";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 const TARGET_PROMPT_COUNT = 6;
 

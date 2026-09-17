@@ -1,5 +1,5 @@
 import { prisma } from "@/lib/prisma";
-import type { Skill, ExamPart, CEFRLevel } from "@/generated/prisma/client";
+import type { Skill, ExamPart, CEFRLevel } from "@prisma/client";
 import type { PlayerExercise } from "@/lib/exercises-shared";
 
 export async function getExerciseForPlayer(id: string): Promise<PlayerExercise | null> {

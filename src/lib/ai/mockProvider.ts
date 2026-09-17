@@ -3,7 +3,7 @@ import { analyzeWriting } from "./writingHeuristics";
 import { analyzeSpeaking } from "./speakingHeuristics";
 import { generateQuestions } from "./exerciseGeneration";
 import { CATEGORY_EXPLANATIONS } from "@/content/error-category-explanations";
-import type { ErrorCategory, WritingType } from "@/generated/prisma/client";
+import type { ErrorCategory, WritingType } from "@prisma/client";
 import type {
   AnalyzeErrorsInput,
   AnalyzeErrorsResult,

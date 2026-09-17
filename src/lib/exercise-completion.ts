@@ -1,7 +1,7 @@
 import { prisma } from "@/lib/prisma";
 import { isAnswerCorrect } from "@/lib/grading";
 import { awardXpAndStreak, checkAndUnlockAchievements, XP_PER_CORRECT_ANSWER, XP_COMPLETION_BONUS } from "@/lib/gamification";
-import type { ErrorSource, Skill } from "@/generated/prisma/client";
+import type { ErrorSource, Skill } from "@prisma/client";
 
 const SKILL_ERROR_SOURCE: Partial<Record<Skill, ErrorSource>> = {
   READING: "READING_USE_OF_ENGLISH",

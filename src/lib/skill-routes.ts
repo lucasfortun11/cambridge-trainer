@@ -1,4 +1,4 @@
-import type { Skill } from "@/generated/prisma/client";
+import type { Skill } from "@prisma/client";
 
 export const SKILL_ROUTES: Record<Skill, string> = {
   READING: "/reading",

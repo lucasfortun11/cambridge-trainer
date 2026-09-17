@@ -1,5 +1,5 @@
 import { prisma } from "@/lib/prisma";
-import type { Skill } from "@/generated/prisma/client";
+import type { Skill } from "@prisma/client";
 import { SKILL_LABELS } from "@/lib/dashboard-labels";
 
 export type SkillAccuracy = {

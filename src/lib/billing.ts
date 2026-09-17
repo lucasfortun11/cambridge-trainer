@@ -4,7 +4,7 @@
 // later means replacing that route's body with a real checkout session and
 // webhook handler; nothing that reads getPlanStatus() needs to change.
 
-import type { PlanTier } from "@/generated/prisma/client";
+import type { PlanTier } from "@prisma/client";
 
 const TRIAL_DAYS = 7;
 

@@ -1,4 +1,4 @@
-import type { Skill, ErrorCategory } from "@/generated/prisma/client";
+import type { Skill, ErrorCategory } from "@prisma/client";
 
 export const SKILL_LABELS: Record<Skill, string> = {
   READING: "Reading",

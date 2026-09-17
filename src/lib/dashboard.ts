@@ -1,6 +1,6 @@
 import { prisma } from "@/lib/prisma";
 import { getAIProvider } from "@/lib/ai";
-import type { ErrorCategory } from "@/generated/prisma/client";
+import type { ErrorCategory } from "@prisma/client";
 import { SKILL_LABELS, ERROR_CATEGORY_LABELS } from "@/lib/dashboard-labels";
 import { getSkillAccuracy, allocateSessionMinutes } from "@/lib/skills";
 import { scoreOnExamScale, examInfo } from "@/lib/cambridge-exams";

@@ -1,5 +1,5 @@
 import { PLACEMENT_TEST } from "@/content/placement-test";
-import type { CEFRLevel, Sublevel, Skill } from "@/generated/prisma/client";
+import type { CEFRLevel, Sublevel, Skill } from "@prisma/client";
 import { scoreOnExamScale } from "@/lib/cambridge-exams";
 
 // The placement test itself only contains B1-C1 difficulty items (see

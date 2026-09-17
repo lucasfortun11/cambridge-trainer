@@ -1,4 +1,4 @@
-import type { UserProfile, CEFRLevel, Sublevel } from "@/generated/prisma/client";
+import type { UserProfile, CEFRLevel, Sublevel } from "@prisma/client";
 import { formatLevel } from "@/lib/placement";
 
 type Row = { label: string; level: CEFRLevel | null; sublevel: Sublevel | null };

@@ -4,7 +4,7 @@ import { useState, type FormEvent } from "react";
 import { useRouter } from "next/navigation";
 import { Save, Trash2, Loader2 } from "lucide-react";
 import { CAMBRIDGE_EXAMS, CEFR_LEVELS } from "@/lib/cambridge-exams";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 type SettingsFormProps = {
   email: string;

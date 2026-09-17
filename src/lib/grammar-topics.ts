@@ -7,7 +7,7 @@
 import { prisma } from "@/lib/prisma";
 import { getAIProvider } from "@/lib/ai";
 import { GRAMMAR_TOPICS } from "@/content/grammar-topics";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 const TARGET_TOPIC_COUNT = 8;
 

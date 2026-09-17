@@ -9,7 +9,7 @@
 // code changing (see provider.ts).
 
 import { prisma } from "@/lib/prisma";
-import type { ErrorCategory } from "@/generated/prisma/client";
+import type { ErrorCategory } from "@prisma/client";
 import type { GeneratedQuestion } from "./types";
 
 const CEFR_ORDER: Record<string, number> = { A2: 0, B1: 1, B2: 2, C1: 3, C2: 4 };

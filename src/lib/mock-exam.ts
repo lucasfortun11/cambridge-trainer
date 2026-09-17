@@ -4,7 +4,7 @@ import { WRITING_PROMPTS } from "@/content/writing-prompts";
 import { SPEAKING_PROMPTS } from "@/content/speaking-prompts";
 import { examInfo } from "@/lib/cambridge-exams";
 import { typicalPartQuestionCount } from "@/content/exam-format-specs";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 const RUE_SLUGS = [
   "rue-p1-remote-work",

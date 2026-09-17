@@ -5,7 +5,7 @@ import { getCurrentUser } from "@/lib/auth";
 import { getAIProvider } from "@/lib/ai";
 import { AiRateLimitError, recordAiUsageOrThrow } from "@/lib/ai/rateLimit";
 import { typicalPartQuestionCount } from "@/content/exam-format-specs";
-import type { ExamPart, Skill } from "@/generated/prisma/client";
+import type { ExamPart, Skill } from "@prisma/client";
 
 const bodySchema = z.object({
   skill: z.enum(["READING", "USE_OF_ENGLISH", "LISTENING", "GRAMMAR"]),

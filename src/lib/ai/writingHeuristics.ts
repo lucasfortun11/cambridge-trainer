@@ -6,7 +6,7 @@
 
 import type { WritingFeedback } from "./types";
 import { estimateLevelFromScore } from "@/lib/cambridge-exams";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 const INFORMAL_MARKERS = [
   "gonna", "wanna", "gotta", "kinda", "yeah", "hey", "cool", "awesome",

@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Loader2, Send } from "lucide-react";
 import type { WritingPrompt } from "@/content/writing-prompts";
 import { EstimatedLevelBanner } from "@/components/shared/EstimatedLevelBanner";
-import type { CEFRLevel, Sublevel } from "@/generated/prisma/client";
+import type { CEFRLevel, Sublevel } from "@prisma/client";
 
 type WritingFeedback = {
   scoreContent: number;

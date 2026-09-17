@@ -4,7 +4,7 @@ import { getCurrentUser } from "@/lib/auth";
 import { estimateGrade } from "@/lib/mock-exam";
 import type { MockExamDetails } from "@/lib/mock-exam";
 import { scoreOnExamScale } from "@/lib/cambridge-exams";
-import type { CEFRLevel } from "@/generated/prisma/client";
+import type { CEFRLevel } from "@prisma/client";
 
 export async function POST(
   _req: Request,

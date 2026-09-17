@@ -18,7 +18,9 @@ const nextConfig: NextConfig = {
   // bundle on Vercel — without this, every route touching the database
   // fails at runtime with "could not locate the Query Engine".
   outputFileTracingIncludes: {
-    "/*": ["./src/generated/prisma/**/*"],
+    // "/*" only matches single-segment routes (e.g. /login), not nested
+    // ones like /api/auth/register — "/**" is needed to match at any depth.
+    "/**": ["./src/generated/prisma/**/*"],
   },
 };
 

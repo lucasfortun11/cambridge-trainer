@@ -14,8 +14,14 @@
 // at the same database — see README for where Supabase gives you each one.
 
 generator client {
-  provider = "prisma-client"
-  output   = "../src/generated/prisma"
+  provider      = "prisma-client"
+  output        = "../src/generated/prisma"
+  // "native" covers local dev on whatever OS you're developing on (Windows
+  // here); "rhel-openssl-3.0.x" is what Vercel's serverless functions
+  // actually run on — without it explicitly listed, a client generated on
+  // Windows and deployed as-is fails at runtime with "could not locate the
+  // Query Engine for runtime rhel-openssl-3.0.x".
+  binaryTargets = ["native", "rhel-openssl-3.0.x"]
 }
 
 datasource db {

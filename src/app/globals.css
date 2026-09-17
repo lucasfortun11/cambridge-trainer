@@ -1,26 +1,103 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f7f8fa;
+  --foreground: #1c1f26;
+
+  --surface: #ffffff;
+  --surface-muted: #f1f3f6;
+  --border: #e3e6eb;
+
+  --muted-foreground: #676f7e;
+
+  --primary: #4550e6;
+  --primary-hover: #363fd1;
+  --primary-foreground: #ffffff;
+
+  --success: #1a9a6a;
+  --success-bg: #e7f6ef;
+  --warning: #b7791f;
+  --warning-bg: #fdf3e2;
+  --danger: #d0433f;
+  --danger-bg: #fbeaea;
+
+  --skill-reading: #4550e6;
+  --skill-use-of-english: #7c3aed;
+  --skill-writing: #0891b2;
+  --skill-listening: #d97706;
+  --skill-speaking: #db2777;
+  --skill-grammar: #16a34a;
+  --skill-vocabulary: #ea580c;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-border: var(--border);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-success: var(--success);
+  --color-success-bg: var(--success-bg);
+  --color-warning: var(--warning);
+  --color-warning-bg: var(--warning-bg);
+  --color-danger: var(--danger);
+  --color-danger-bg: var(--danger-bg);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #101215;
+    --foreground: #e7e9ec;
+
+    --surface: #16181c;
+    --surface-muted: #1c1f24;
+    --border: #2a2e35;
+
+    --muted-foreground: #9aa1ad;
+
+    --primary: #6b74ef;
+    --primary-hover: #838bf2;
+    --primary-foreground: #0d0e10;
+
+    --success: #34c98d;
+    --success-bg: #133226;
+    --warning: #e0a940;
+    --warning-bg: #362a12;
+    --danger: #ef6b67;
+    --danger-bg: #331716;
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+* {
+  border-color: var(--border);
+}
+
+/* WordCapture's text-selection popover — a fresh keyframe run each time
+   (triggered by remounting the element with a new `key`) instead of a
+   JS-driven opacity/transform toggle, so it needs no extra render pass. */
+@keyframes word-capture-in {
+  from {
+    opacity: 0;
+    transform: translate(-50%, var(--word-capture-from-y, 0)) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, var(--word-capture-to-y, 0)) scale(1);
+  }
+}
+
+.animate-word-capture-in {
+  animation: word-capture-in 120ms ease-out forwards;
 }

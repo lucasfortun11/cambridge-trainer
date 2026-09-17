@@ -1,0 +1,4172 @@
+[
+  {
+    "word": "a/an",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "advanced",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "able",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "about",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "above",
+    "pos": "adjective, adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "abroad",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "absent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "absolutely",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "after",
+    "pos": "adverb, conjunction, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "afterwards",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "again",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "acceptable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "against",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "aged",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "ago",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "ahead",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "accurate",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "across",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "alike",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "alive",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "all",
+    "pos": "adjective, adverb, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "active",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "all right/alright",
+    "pos": "adjective, adverb, exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "almost",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "alone",
+    "pos": "adverb, adjective",
+    "level": "B1"
+  },
+  {
+    "word": "actually",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "along",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "s aloud",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "already",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "ad",
+    "pos": "advertisement",
+    "level": "B1"
+  },
+  {
+    "word": "also",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "although",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "altogether",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "in addition always",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "amazed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "amazing",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "among",
+    "pos": "amongst",
+    "level": "B1"
+  },
+  {
+    "word": "amusing",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "an",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "ancient",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "and",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "angry",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "as",
+    "pos": "conjunction, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "ashamed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "asleep",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "as long as",
+    "pos": "phr",
+    "level": "B1"
+  },
+  {
+    "word": "annoyed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "annual",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "another",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "as well",
+    "pos": "as",
+    "level": "B1"
+  },
+  {
+    "word": "at",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "anxious",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "any",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "anybody",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "anymore",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "anyone",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "anything",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "anyway",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "anywhere",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "apart",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "apart from",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "job application attractive",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "available",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "approximately",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "awake",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "away",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "awesome",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "awful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "around",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "before",
+    "pos": "preposition, adverb, conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "background",
+    "pos": "experience",
+    "level": "B1"
+  },
+  {
+    "word": "backwards",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "bad",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "behind",
+    "pos": "preposition, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "badly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "below",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "beneath",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "bald",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "beside",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "besides",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "best",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "better",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "between",
+    "pos": "preposition, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "beyond",
+    "pos": "preposition, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "big",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "basic",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "bitter",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "blank",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "blind",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "beautiful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "because",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "boiled",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "bold",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "brief",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "bright",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "brilliant",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "broad",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "broken",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "bored",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "boring",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "born",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "bossy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "both",
+    "pos": "pronoun, determiner",
+    "level": "B1"
+  },
+  {
+    "word": "burning",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "busy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "but",
+    "pos": "conjunction, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "brand new",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "brave",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "by",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "careless",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "bye",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "casual",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "calm",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "centimetre",
+    "pos": "cm",
+    "level": "B1"
+  },
+  {
+    "word": "central",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "capital letter certain",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "credit card challenging",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "careful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "carefully",
+    "pos": "ad",
+    "level": "B1"
+  },
+  {
+    "word": "charming",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "cheap",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "closed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "cloudy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "cheerful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "colourful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "comfortable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "classical",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "clearly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "clever",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "completely",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "complicated",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "of course",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "confident",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "confused",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "confusing",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "creative",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "convenient",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "crowded",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "cruel",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "cultural",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "correct",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "curious",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "curiously",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "curly",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "cosy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "could",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "cute",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "depressed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "daily",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "damaged",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "dangerous",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "despite",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "dead",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "deaf",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "dear",
+    "pos": "adjective, exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "too dear to buy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "dear sir",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "different",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "difficult",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "digital",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "deep",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "definitely",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "directly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "dirty",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "disabled",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "delayed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "delicious",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "delighted",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "disappointed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "disappointing",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "disc jockey",
+    "pos": "DJ",
+    "level": "B1"
+  },
+  {
+    "word": "dressed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "disgusting",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "due",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "dull",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "during",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "dusty",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "each",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "double",
+    "pos": "adjective, determiner",
+    "level": "B1"
+  },
+  {
+    "word": "early",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "down",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "downstairs",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "eastern",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "easily",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "something efficient",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "either",
+    "pos": "adverb, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "elder",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "elderly",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "especially",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "electric",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "electrical",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "essential",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "electronic",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "even",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "elementary",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "even though",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "else",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "ever",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "every",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "embarrassed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "everybody",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "embarrassing",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "everyone",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "everything",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "everywhere",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "exact",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "exactly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "empty",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "excellent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "except",
+    "pos": "preposition, conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "engaged",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "exciting",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "exhausted",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "enjoyable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "enormous",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "enough",
+    "pos": "adverb, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "expensive",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "enter a competition experienced",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "environmental",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "equal",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "extraordinary",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "extremely",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "few",
+    "pos": "adjective, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "face to face",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "face-to-face",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "fairly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "finally",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "financial",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "false",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "familiar",
+    "pos": "with",
+    "level": "B1"
+  },
+  {
+    "word": "famous",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "fantastic",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "far",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "first",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "first prize",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "first of all",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "fashionable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "fast",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "keep fit",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "fat",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "focus",
+    "pos": "sth",
+    "level": "B1"
+  },
+  {
+    "word": "foggy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "full",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "folder",
+    "pos": "computer",
+    "level": "B1"
+  },
+  {
+    "word": "full time",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "full-time",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "fully",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "following",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "fond",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "funny",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "a funny story",
+    "pos": "amusing",
+    "level": "B1"
+  },
+  {
+    "word": "a funny thing happened",
+    "pos": "strange",
+    "level": "B1"
+  },
+  {
+    "word": "further",
+    "pos": "adverb, adjective",
+    "level": "B1"
+  },
+  {
+    "word": "furthest",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "for",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "forbidden",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "foreign",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "forever",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "former",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "for sale",
+    "pos": "phr",
+    "level": "B1"
+  },
+  {
+    "word": "fortunately",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "general",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "generally",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "free",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "generous",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "freezing",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "gentle",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "frequent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "frequently",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "get along",
+    "pos": "with",
+    "level": "B1"
+  },
+  {
+    "word": "fresh",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "fried",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "friendly",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "frightened",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "frightening",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "from",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "frozen",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "good-looking",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "get on",
+    "pos": "with",
+    "level": "B1"
+  },
+  {
+    "word": "good morning",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "giant",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "gorgeous",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "glad",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "grateful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "great",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "golden",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "grilled",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "good",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "good afternoon",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "hard",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "guided",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "have to",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "guilty",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "he",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "h healthy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "heavy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "half-price",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "hello",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "hand-held",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "her",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "handsome",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "herself",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "hey",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "hi",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "high",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "himself",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "happy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "happily",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "his",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "historic",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "historical",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "icy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "identity card",
+    "pos": "ID",
+    "level": "B1"
+  },
+  {
+    "word": "honest",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "if",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "honestly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "ill",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "immediately",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "hopeful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "hopefully",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "important",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "hopeless",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "impossible",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "horrible",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "horror",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "in",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "in case",
+    "pos": "adverb, conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "hot",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "including",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "incorrect",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "incredible",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "incredibly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "how",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "indeed",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "however",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "independent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "how much",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "individual",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "indoor",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "huge",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "indoors",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "humid",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "inexpensive",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "hungry",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "it",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "its",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "itself",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "inside",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "jealous",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "instead",
+    "pos": "of",
+    "level": "B1"
+  },
+  {
+    "word": "to go by jet",
+    "pos": "plane",
+    "level": "B1"
+  },
+  {
+    "word": "intelligent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to join",
+    "pos": "in",
+    "level": "B1"
+  },
+  {
+    "word": "interested",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "interesting",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "intermediate",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "international",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "just",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "into",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "keen",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "lazy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "the least amount",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "kilogramme",
+    "pos": "kg",
+    "level": "B1"
+  },
+  {
+    "word": "at least",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "kilometre",
+    "pos": "km",
+    "level": "B1"
+  },
+  {
+    "word": "left-hand",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "less",
+    "pos": "adverb, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "laboratory",
+    "pos": "lab",
+    "level": "B1"
+  },
+  {
+    "word": "laptop",
+    "pos": "computer",
+    "level": "B1"
+  },
+  {
+    "word": "large",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "late",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "lately",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "likely",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "later",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "latest",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "limited",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "a clothes line luckily",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "a railway line lucky",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "mad",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "little",
+    "pos": "adjective, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "live",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "lively",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "magnificent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "main",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "local",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "mainly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "lonely",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "long",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "many",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "married",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "loose",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "lost",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "loud",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "loudly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "lovely",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "low",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "may",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "minus",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "maybe",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "me",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "miserable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "missing",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "meanwhile",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "mobile",
+    "pos": "phone",
+    "level": "B1"
+  },
+  {
+    "word": "medium",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "modern",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "more",
+    "pos": "adverb, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "most",
+    "pos": "adverb, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "messy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "mostly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "middle-aged",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "might",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "mild",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "millimetre",
+    "pos": "mm",
+    "level": "B1"
+  },
+  {
+    "word": "much",
+    "pos": "adverb, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "musical",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "must",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "mine",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "my",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "normal",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "myself",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "normally",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "northern",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "narrow",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "not",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "nasty",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "national",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "natural",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "navy blue",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "nothing",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "near",
+    "pos": "adverb, preposition, adjective",
+    "level": "B1"
+  },
+  {
+    "word": "nearby",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "nearly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "neat",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "necessary",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "now",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "negative",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "nowadays",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "nowhere",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "neither",
+    "pos": "adverb, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "s your",
+    "pos": "phone",
+    "level": "B1"
+  },
+  {
+    "word": "nervous",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "obvious",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "obviously",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "never",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "occasionally",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "new",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "clock",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "next",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "of",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "next to",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "nice",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "off",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "no",
+    "pos": "adverb, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "nobody",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "often",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "noisy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "oh",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "none",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "no one",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "old",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "old-fashioned",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "outside",
+    "pos": "adverb, adjective, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "on",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "over",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "once",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "to be over",
+    "pos": "finished",
+    "level": "B1"
+  },
+  {
+    "word": "one",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "overnight",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "my own pen",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "on my own",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "online",
+    "pos": "adverb, adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to book/buy something online",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "an online printer",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "only",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "onto",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "painful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "pale",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "or",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "in order to",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "pardon",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "ordinary",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "original",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "other",
+    "pos": "adjective, pronoun, determiner",
+    "level": "B1"
+  },
+  {
+    "word": "otherwise",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "ought",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "our",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "ours",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "ourselves",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "out",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "partly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "outdoor",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "particular",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "outdoors",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "out of",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "particularly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "part time",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "part-time",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "a birthday party perhaps",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "permanent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "permitted",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "personal",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "personally",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "the past few weeks",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to be patient",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "peaceful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to pass the pepper",
+    "pos": "spice",
+    "level": "B1"
+  },
+  {
+    "word": "red peppers",
+    "pos": "vegetable",
+    "level": "B1"
+  },
+  {
+    "word": "per",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "percent",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "perfect",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "perfectly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "political",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "plain",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "poor",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "the poor man",
+    "pos": "sympathy",
+    "level": "B1"
+  },
+  {
+    "word": "popular",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "positive",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "possible",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "possibly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "pleasant",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "pleased",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "plenty",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "powerful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "plus",
+    "pos": "preposition, conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "pregnant",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "prepared",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to be present",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "at the present time",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "polite",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "public opinion",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to make something public",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "pretty",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "previous",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "previously",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "principal",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "pure",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "private",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "probably",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "prohibited",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "proper",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "qualified",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "proud",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "the question being discussed",
+    "pos": "subject",
+    "level": "B1"
+  },
+  {
+    "word": "ready",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "quick",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "real",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "quickly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "quiet",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "quietly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "realistic",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "quite",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "really",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "quite old reasonable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "reasonably",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "recent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to race home quickly",
+    "pos": "run",
+    "level": "B1"
+  },
+  {
+    "word": "recycled",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "red",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to raise prices reduced",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "regarding",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "rare",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "rarely",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "rather",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "regular",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "regularly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "raw",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "relaxed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "reliable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "relieved",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "right-hand",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "rely",
+    "pos": "on",
+    "level": "B1"
+  },
+  {
+    "word": "rock",
+    "pos": "music",
+    "level": "B1"
+  },
+  {
+    "word": "responsible",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "romantic",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "a return",
+    "pos": "ticket",
+    "level": "B1"
+  },
+  {
+    "word": "rough",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "round",
+    "pos": "adjective, adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "a round object",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "rich",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "the wrong way round",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "the right time",
+    "pos": "correct",
+    "level": "B1"
+  },
+  {
+    "word": "a row of seats",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "my right foot",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "a rubber",
+    "pos": "eraser",
+    "level": "B1"
+  },
+  {
+    "word": "rude",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "scared",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "scary",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "scientific",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sad",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "safe",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "safely",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "secondary",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "second-hand",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "same",
+    "pos": "adjective, pronoun, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "at the same time",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to see the joke",
+    "pos": "understand",
+    "level": "B1"
+  },
+  {
+    "word": "satisfactory",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "satisfied",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "selfish",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "self-service",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to save time sensible",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "separate",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "shocked",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "serious",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "shocking",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "seriously",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "short",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "shortly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "should",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "several",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "shy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sick",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "shall",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "sharp",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "she",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "silent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "silly",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "shiny",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "similar",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "simple",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "smooth",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "since",
+    "pos": "conjunction, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "a smooth surface",
+    "pos": "level",
+    "level": "B1"
+  },
+  {
+    "word": "sincerely",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "yours sincerely",
+    "pos": "comfortable",
+    "level": "B1"
+  },
+  {
+    "word": "a single",
+    "pos": "ticket",
+    "level": "B1"
+  },
+  {
+    "word": "to be single",
+    "pos": "unmarried",
+    "level": "B1"
+  },
+  {
+    "word": "a single room",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "so",
+    "pos": "adverb, conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "sociable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "social",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "soft",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "situated",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "some",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "somebody",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "somehow",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "someone",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "something",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "sometimes",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "somewhere",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "sleepy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "soon",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "sleeveless",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "slightly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "sore",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "slim",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sorry",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "slow",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "slowly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "small",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "smart",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sour",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "southern",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "spare time",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sparkling",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "special",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "specially",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "steep",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "spectacular",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "step over/in/on/out of",
+    "pos": "sth",
+    "level": "B1"
+  },
+  {
+    "word": "spicy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sticky",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "still",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "a square room",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "straight",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "to go straight on",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "a straight road",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "strange",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "stressed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "stressful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "strict",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "strong",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sure",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "to make sure",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "stupid",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "stylish",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "surprised",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "suprising",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "successful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sweet food",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "such",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "a sweet face",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sudden",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "a sweet smell",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "suddenly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "suitable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "sunny",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "terribly",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "terrific",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "terrified",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "than",
+    "pos": "conjunction, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "thanks",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "take part",
+    "pos": "in",
+    "level": "B1"
+  },
+  {
+    "word": "thank you",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "that",
+    "pos": "conjunction, determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "the",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "their",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "them",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "talented",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "themselves",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "then",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "there",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "tall",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "therefore",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "these",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "they",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "thick",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "thin",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "tasty",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "thirsty",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "this",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "those",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "though",
+    "pos": "conjunction, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "television",
+    "pos": "TV",
+    "level": "B1"
+  },
+  {
+    "word": "temporary",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "tight",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "till",
+    "pos": "conjunction, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "till he comes",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "traditional",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "tiny",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "tip",
+    "pos": "advice",
+    "level": "B1"
+  },
+  {
+    "word": "tired",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "tiring",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "together",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "too",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "true",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "top of the class",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "to try",
+    "pos": "out",
+    "level": "B1"
+  },
+  {
+    "word": "unexpected",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unfit",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unforgettable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unfortunately",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "unfriendly",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unhealthy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unkind",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unknown",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unimportant",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "uninterested",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "uninteresting",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unless",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "unlucky",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unnecessary",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "twice",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "unsure",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "untidy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "until",
+    "pos": "preposition, conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "unusual",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "unwell",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "typical",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "typically",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "up",
+    "pos": "adverb, preposition",
+    "level": "B1"
+  },
+  {
+    "word": "ugly",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "unbelievable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "uncomfortable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "under",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "upon",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "upper",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "underground trains",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "upset",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "upstairs",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "underneath",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "urgent",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "underwater",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "urgently",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "us",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "useful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "usual",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "usually",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "warm",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "v/versus",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "valuable",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "various",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "very",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "via",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "we",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "weak",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "weekly",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "a weekly magazine",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "windy",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "wise",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "well",
+    "pos": "adjective, adverb, exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "to behave very well",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "with",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "within",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "without",
+    "pos": "preposition",
+    "level": "B1"
+  },
+  {
+    "word": "well-dressed",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "well-known",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "well made / well-made",
+    "pos": "adverb, adjective",
+    "level": "B1"
+  },
+  {
+    "word": "wonderful",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "western",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "wet",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "wooden",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "what",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "whatever",
+    "pos": "pronoun, determiner",
+    "level": "B1"
+  },
+  {
+    "word": "when",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "whenever",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "where",
+    "pos": "adverb, conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "working",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "wherever",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "whether",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "which",
+    "pos": "pronoun, determiner",
+    "level": "B1"
+  },
+  {
+    "word": "whilst",
+    "pos": "conjunction",
+    "level": "B1"
+  },
+  {
+    "word": "worried",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "white",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "who",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "worse",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "worst",
+    "pos": "adjective, adverb",
+    "level": "B1"
+  },
+  {
+    "word": "whose",
+    "pos": "determiner, pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "worth",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "why",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "would",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "wide",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "wow",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "wrap",
+    "pos": "up",
+    "level": "B1"
+  },
+  {
+    "word": "to wrap",
+    "pos": "up",
+    "level": "B1"
+  },
+  {
+    "word": "wild",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "will",
+    "pos": "mv",
+    "level": "B1"
+  },
+  {
+    "word": "willing",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "written",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "wrong",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "yeah",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "yellow",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "yes",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "yesterday",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "yet",
+    "pos": "adverb",
+    "level": "B1"
+  },
+  {
+    "word": "you",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "you know",
+    "pos": "exclamation",
+    "level": "B1"
+  },
+  {
+    "word": "young",
+    "pos": "adjective",
+    "level": "B1"
+  },
+  {
+    "word": "your",
+    "pos": "determiner",
+    "level": "B1"
+  },
+  {
+    "word": "yours",
+    "pos": "pronoun",
+    "level": "B1"
+  },
+  {
+    "word": "yourself",
+    "pos": "pronoun",
+    "level": "B1"
+  }
+]

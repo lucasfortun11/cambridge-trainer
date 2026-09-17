@@ -77,9 +77,11 @@ export default function LoginPage() {
         </button>
       </form>
 
-      <p className="mt-4 rounded-lg bg-surface-muted px-3 py-2 text-xs text-muted-foreground">
-        Cuenta de demostración: <b>demo@c1trainer.com</b> / <b>demo1234</b>
-      </p>
+      {process.env.NEXT_PUBLIC_SHOW_DEMO_ACCOUNT === "1" && (
+        <p className="mt-4 rounded-lg bg-surface-muted px-3 py-2 text-xs text-muted-foreground">
+          Cuenta de demostración: <b>demo@c1trainer.com</b> / <b>demo1234</b>
+        </p>
+      )}
 
       <p className="mt-6 text-center text-sm text-muted-foreground">
         ¿No tienes cuenta?{" "}
